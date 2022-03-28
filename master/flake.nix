@@ -11,7 +11,6 @@
   inputs.src-golib-master.ref   = "refs/heads/master";
   inputs.src-golib-master.owner = "stefantalpalaru";
   inputs.src-golib-master.repo  = "golib-nim";
-  inputs.src-golib-master.dir   = "";
   inputs.src-golib-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
