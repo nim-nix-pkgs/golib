@@ -7,7 +7,7 @@
   "license": "BSD",
   "web": "https://github.com/stefantalpalaru/golib-nim",
   "refs": [
-    "fatal: unable to access 'https://github.com/stefantalpalaru/golib-nim/': Couldn't connect to server",
+    "fatal: unable to access 'https://github.com/stefantalpalaru/golib-nim/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
