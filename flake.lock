@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653701911,
-        "narHash": "sha256-5G/qhiZpElpifNGjbPcd2NFNE6k+fP0U2ziBfcmMWKE=",
+        "lastModified": 1656297759,
+        "narHash": "sha256-j8l7pKVhaP5Jo7o5vXOiCDBI03O4Q0Ojey3NshGu7aE=",
         "owner": "nim-nix-pkgs",
         "repo": "golib",
-        "rev": "a7d631c552768bbee0e650b6ce87e1dcbe6e14f3",
+        "rev": "c31f803bfd14f9380dea6ea3c75fba002bb9a52f",
         "type": "github"
       },
       "original": {
